@@ -6,6 +6,8 @@ As we know, games are getting all the more complex these days, which means that 
 
 Looking forward to getting this project more contributers by forking it here... (Although I'm really more of a learner here...)
 
+PS. It seems that most of the source files are in the Framework directory, and seems like a mix of many different projects, it may be that the program is not completely open source after all (just released part of the code, and then got onto github with various means)
+
 
 # 概览
 
@@ -16,3 +18,5 @@ Looking forward to getting this project more contributers by forking it here... 
 希望在这里进行分支能够让更多人参与到这里面来（尽管我很怀疑我本人能不能真的有所贡献。。。）
 
 （求扩散）
+
+PS. 似乎大部分代码都在 “Framework” 目录下，而看起来似乎是很多项目的集合，很可能VNR本身并没有开源，只是公布了一部分代码，然后不知道怎样就上了github。。。
